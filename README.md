@@ -63,5 +63,3 @@ Contributions, suggestions, and bug reports are welcome. Please fork the reposit
 This project is for academic or demonstration purposes. License details can be added here.
 
 ---
-
-*Note: The above file listing may be incomplete. For a full, up-to-date list, view the repository contents on GitHub: [HTToann/LibraryManagementSystem](https://github.com/HTToann/LibraryManagementSystem/tree/main/)*
